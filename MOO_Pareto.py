@@ -67,7 +67,7 @@ def main():
               # , , , , , , , , , , , , , , , , ,
               # , ]
 
-    designWanted = 1798
+    designWanted = 42
 
     print('Index =', designWanted)
     print('ID =', allDesigns[designWanted].ID)
